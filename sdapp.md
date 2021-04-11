@@ -38,7 +38,7 @@ They are to attempt and keep the Class-Disposables from rioting
 SD is a major department
 
 # What is the SD motto?
-"Secure and Protect", basically the foundation's motto but without 'contain' since SD doesn't contain
+We Die In The Dark So You May Live In The Light
 
 # How active are you on a scale of 1-10?
 I would say a solid 7 or 8.
@@ -47,3 +47,4 @@ I would say a solid 7 or 8.
 Suppertoot - Director
 OPG_Bungiez - Assitant Director
 PhantomsGoBoo - Overseer
+```
