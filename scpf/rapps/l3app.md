@@ -1,3 +1,4 @@
+```md
 1: The foundation was created by an anomalous entity called 'The Adminstrator'. He then proceeded to divide it into departments, so that the containment and research of SCPs can be done more effeciently. Each department, apart from it's directorate also has an overseer that is responsible for giving details regarding the department to the adminstrator.
 
 2: I am currently in the Ethics Committee and Security Department. For the former I have been tasked with creating applications for each of the subcommittees. For the former, meanwhile, I have been asked to improve on my combat skills.
@@ -10,5 +11,6 @@
 
 6: 
 Soph®#6666 // SophBlossoms
-X // X
-Z // Z
+belle#8643 // BelleBlossoms
+Reborn#1614 // RebornBlossoms
+```
