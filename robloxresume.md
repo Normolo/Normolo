@@ -17,5 +17,5 @@
 - ScD Head Researcher
 - EC Constitute
 ## k4buk1's SCPF (2K Members)
-- EC E-07 (Responsible for all the foundation's documents
+- EC E-07 (Responsible for all the foundation's documents)
 - SD Guardsman
