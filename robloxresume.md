@@ -18,4 +18,6 @@
 - EC Constitute
 ## k4buk1's SCPF (2K Members)
 - EC E-07 (Responsible for all the foundation's documents)
-- SD Guardsman
+- MTF Sigma-9
+- Considered for O5-1
+- Considered for ISD
