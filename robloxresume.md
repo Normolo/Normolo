@@ -25,6 +25,7 @@ I am proud to say I never got free ranked to any of these positions.
 - ISD Director
 - ISD Overseer (O5-11)
 - Adminstrator's Executive (Between O5 council and O5-x)
+- O5-X
 # Other Clans
 ## The Nighthawk Imperium (TNI , 500K+ members)
 - Diplomacy Colonel
