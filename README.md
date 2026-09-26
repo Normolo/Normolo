@@ -1,1 +1,1 @@
-![Metrics](https://github.com/Normolo/Normolo/raw/main/github-metrics.svg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Normolo&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=Normolo&include_all_commits=true&theme=catppuccin_mocha)
